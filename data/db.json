@@ -1,0 +1,21 @@
+{
+    "categories":[
+        {
+            "_id": ,
+            "name": ,
+            "display_name":,
+            "description":
+        }
+    ]
+}
+{
+    "products":[
+        {
+            "_id":, 
+            "category":,
+             "name":, 
+             "display_name":, 
+             "description":
+        }
+    ]
+}

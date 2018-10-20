@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/401classCodeFellows/lab-06#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "server": "^1.0.18"
   }
-  
 }
